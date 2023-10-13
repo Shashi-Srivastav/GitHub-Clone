@@ -20,5 +20,6 @@ Explore it here: [GitHub Homepage Clone](https://github-homepage-clone-by-shashi
 
 Dive into the GitHub universe once more! ⭐️
 
+package.json,package-lock.json are not uploaded.
 
 #GitHubClone #NextJS #TailwindCSS #FramerMotion #WebDevelopment #GitHub #Vercel
